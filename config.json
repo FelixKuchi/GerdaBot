@@ -1,8 +1,8 @@
 {
     "DISCORD_TOKEN": "DEIN_DISCORD_BOT_TOKEN",
     "MONGO_URI": "//gerdauser:e85N1fFjGmjPOMGo@gerda.crvtg.mongodb.net/?retryWrites=true&w=majority&appName=Gerda",
-    "PAYPAL_CLIENT_ID": "AYjcaWv4KwMTzMQtMltgsArq5GTXJEKnAtQ_b572iemmm5QCCfPpJa9UVDIidYoc-nzdvcI9bOzsHzwS",
-    "PAYPAL_SECRET": "EK-8cz0oUGT4LzRAIj4sPu8ptTbBCuUYL-R8llFuegUygmA0J5RV3EMd8-9nPHXd1SIZ1Cue_AUy4CMe",
+    "PAYPAL_CLIENT_ID": "not define",
+    "PAYPAL_SECRET": "not define",
     "STEAM_API_KEY": "755F23B81BFA2919E6ED08D9E216291C",
     "EPIC_API_KEY": "DEIN_EPIC_API_KEY",
     "XBOX_API_KEY": "DEIN_XBOX_API_KEY",
